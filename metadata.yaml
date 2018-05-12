@@ -1,0 +1,41 @@
+_repo: Archipel_36900
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Louÿs, Pierre
+    aliases:
+    - Pierre Louÿs
+    - Louys, Pierre
+    - Louis, Pierre-Felix
+    - Chrysis, Pierre
+    - Louis, Pierre-Félix
+    birthdate: 1870
+    deathdate: 1925
+    gutenberg_agent_id: '1554'
+    url: http://www.gutenberg.org/2009/agents/1554
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Lou%C3%BFs
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36900'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+- !lcsh 'Essays'
+tableOfContents: "Première partie: La nuit de printemps. L'ile mystérieuse. Les chercheurs\
+  \ de trésors. Une fête a Alexandrie. Sports antiques. Lesbos d'aujourd'hui. La femme\
+  \ dans la poésie arabe --\r\nSeconde partie: La déspespérés. Liberté pour l'amour\
+  \ et pour le mariage. Une réforme dangereuse. La ville plus belle que le monument.\
+  \ La statue de la verité. La censure. Le boulevard. Le capitaine aux guides. Un\
+  \ cas juridique sans précédent."
+title: Archipel
+url: http://www.gutenberg.org/ebooks/36900
